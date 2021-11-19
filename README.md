@@ -9,6 +9,6 @@ Para ejecutar la aplicacion, inicialmente debes instalar los paquetes requeridos
 * npm i
 
 para ejecutar la app, utilizaremos el siguiente comando en nuestra terminal: 
-*npm start
+* npm start
 
 
