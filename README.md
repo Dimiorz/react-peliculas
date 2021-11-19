@@ -1,6 +1,6 @@
 ## Requierimientos:
 Para inicializar este proyecto, se debe tener instalado el naquede de node en su escritorio.
-* [Node.js](hhttps://nodejs.org/es/)
+* [Node.JS](https://nodejs.org/es/)
 
 
 ## instrucciones:
